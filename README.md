@@ -6,7 +6,7 @@ An end-to-end data engineering and business intelligence portfolio project that 
 
 ## Dashboard
 
-**[View the interactive Tableau dashboard](https://public.tableau.com/views/ecommerce-data-pipeline/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**[View the interactive Tableau dashboard](https://public.tableau.com/views/ecommerce-data-pipeline_17942223746050/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 The dashboard is designed to explore e-commerce performance through KPI cards, time-series analysis, category comparisons and a category-level performance summary. Available dashboard filters can be used to narrow the reporting period and product category.
 
@@ -194,4 +194,4 @@ Run the scripts in the order appropriate to your data setup. The historical back
 **Vyshnav P S**  
 Data Analytics | Python | SQL | BigQuery | Tableau
 
-[GitHub Repository](https://github.com/vyshnavps07-oss/ecommerce-data-pipeline) · [Interactive Tableau Dashboard](https://public.tableau.com/views/ecommerce-data-pipeline/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[GitHub Repository](https://github.com/vyshnavps07-oss/ecommerce-data-pipeline) · [Interactive Tableau Dashboard](https://public.tableau.com/views/ecommerce-data-pipeline_17942223746050/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
